@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 
-<head></head>
+<head>
+        <title>First PHP</title>
+</head>
 
 <body>
         <?php
